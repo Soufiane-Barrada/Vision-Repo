@@ -52,6 +52,6 @@ The Bag-of-Words classifier follows these steps:
 The Classifier distinguisches perfectly between positive image (images with cars), and negative images.
 
 <p align="center">
-    <img src="image_0732.png" alt="Positive" width="40%">
-    <img src="image_0064.png" alt="Negative" width="40%">
+  <img src="image_0732.png" alt="Positive" width="40%">
+  <img src="image_0064.png" alt="Negative" width="40%">
 </p>
