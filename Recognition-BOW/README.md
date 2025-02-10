@@ -27,7 +27,7 @@ K-means clustering is applied to segment an image into K clusters:
 <p align="center">
   <img src="k=2.png" alt="K-Means K=2" width="30%">
   <img src="k=8.png" alt="K-Means K=8" width="30%">
-  <img src="k=20.png" alt="K-Means K=200" width="30%">
+  <img src="k=20.png" alt="K-Means K=20" width="30%">
 </p>
 
 ---
