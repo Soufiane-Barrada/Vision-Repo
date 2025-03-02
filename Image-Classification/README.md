@@ -30,5 +30,5 @@ This project implements image classification on the MNIST and CIFAR-10 datasets 
 | Fully Connected | 128 input, 10 output (classification)    |
 
 ## Results
-- Achieved **97%+** accuracy on MNIST with CNN.
+- Achieved **99%+** accuracy on MNIST with CNN.
 - Achieved **46%** accuracy on CIFAR-10 with CNN.
