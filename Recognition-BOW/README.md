@@ -1,13 +1,13 @@
 # Object Recognition using K-means and Bag-of-Words
 
-This project implements **Bag-of-Words (BoW) classifier** for object recognition, specifically for car detection in images. The project explores feature extraction, clustering, and nearest-neighbor classification to achieve effective recognition results.
+This file implements **Bag-of-Words (BoW) classifier** for object recognition, specifically for car detection in images. The project explores feature extraction, clustering, and nearest-neighbor classification to achieve effective recognition results.
 
 ## Overview
 
 The project consists of two main tasks:
 
 1. **K-means Clustering**: Used to construct the Visual words.
-2. **Bag-of-Words Image Classification**: A machine learning-based approach for recognizing objects in images using local feature extraction and clustering.
+2. **Bag-of-Words Image Classification**: A machine learning approach for recognizing objects in images using local feature extraction and clustering.
 
 ## K-means Clustering
 

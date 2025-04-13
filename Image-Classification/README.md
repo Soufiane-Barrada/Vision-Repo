@@ -1,13 +1,13 @@
 # Image Classification with PyTorch
 
 ## Overview
-This project implements image classification on the MNIST and CIFAR-10 datasets using PyTorch. It includes training and evaluation of both a Multi-Layer Perceptron (MLP) and a Convolutional Neural Network (CNN).
+This notebook implements image classification on the MNIST and CIFAR-10 datasets using PyTorch. It includes training and evaluation of both a Multi-Layer Perceptron (MLP) and a Convolutional Neural Network (CNN).
 
-## Features
+## steps
 - Data preprocessing, normalization, and augmentation
 - Implementation of MLP and CNN architectures
 - Training and evaluation on MNIST and CIFAR-10
-- hyperparameter tuning to achieve high test accuracy
+- hyperparameter tuning to achieve higher test accuracy
 
 ## Model Architectures
 ### MLP
@@ -30,5 +30,5 @@ This project implements image classification on the MNIST and CIFAR-10 datasets 
 | Fully Connected | 128 input, 10 output (classification)    |
 
 ## Results
-- Achieved **99%+** accuracy on MNIST with CNN.
-- Achieved **46%** accuracy on CIFAR-10 with CNN.
+- **99%+** accuracy on MNIST with CNN.
+- **46%** accuracy on CIFAR-10 with CNN.
